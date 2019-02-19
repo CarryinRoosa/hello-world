@@ -1,1 +1,3 @@
 !Hello
+kanala
+mida paganat
